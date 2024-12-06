@@ -42,6 +42,11 @@ class Enxada extends Bloco {
             console.log("* Conquista obtida!");
         }
     }
+
+    //polimorfismo
+    minerar(){
+        console.log("+++ Dano atriuido!");
+    }
 }
 
 
@@ -82,3 +87,4 @@ enxada2.arar();
 
 const enxada3 = new Enxada("diamante", 10, false);
 enxada3.criarEnxada();
+enxada3.minerar();
