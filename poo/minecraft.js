@@ -53,7 +53,6 @@ class Enxada extends Bloco {
 
 
 
-
 console.clear();
 console.log(" ___ ___  ____  ____     ___    __  ____    ____  _____  ______ ");
 console.log("|   |   ||    ||    \\   /  _]  /  ]|    \\  /    ||     ||      |");
